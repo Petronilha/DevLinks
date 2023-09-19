@@ -6,9 +6,9 @@ function toggleMode() {
 
   if (html.classList.contains("light")) {
     img.setAttribute("src", "./assets/avatar-light.png")
-    img.setAttribute("alt", "Imagem do Mayk Brito com fundo roxo")
+    img.setAttribute("alt", "Perfil image Daniel Petronilha in light mode")
   } else {
     img.setAttribute("src", "./assets/avatar.png")
-    img.setAttribute("alt", "Imagem do Mayk Brito com fundo amarelo")
+    img.setAttribute("alt", "Perfil image Daniel Petronilha in dark mode")
   }
 }
