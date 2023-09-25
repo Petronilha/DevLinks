@@ -57,6 +57,9 @@ body * {
   margin-top: 8px;
 }
 
+#profile p + p {
+  margin-top: 30px;
+}
 /*swich */
 #switch {
   position: relative;
