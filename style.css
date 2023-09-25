@@ -55,17 +55,14 @@ body * {
 }
 
 #profile a {
-  cursor: auto;
+  cursor: default;
 }
 
 #profile #nickname {
-  height: 25px;
+  height: 22px;
   margin: 20px 0 20px;
 }
 
-#profile p + p {
-  margin-top: 30px;
-}
 /*swich */
 #switch {
   position: relative;
